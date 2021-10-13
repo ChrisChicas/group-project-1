@@ -43,6 +43,12 @@ main h2 {
     padding: 3px;
 }
 
+.kyle-style {
+    color: red;
+    background-color: blueviolet;
+    padding: 3px;
+}
+
 .codys-styles {
     background:rgb(92, 149, 235);
 }
